@@ -6,7 +6,7 @@ This dashboard was designed to help stakeholders monitor brand protection perfor
 
 ## Dashboard Preview
 
-![Dashboard](dashboard-home.png)
+![Dashboard](dashboard-demo.gif)
 
 ## Features
 
