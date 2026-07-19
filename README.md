@@ -40,3 +40,9 @@ This dashboard was designed to help stakeholders monitor brand protection perfor
 - Client information has been anonymized.
 - Data has been replaced with publicly available sample data.
 - Shared for portfolio purposes only.
+
+## 👨‍💻 Author
+
+**Yogesh Kumar**
+
+Aspiring Data Analyst
