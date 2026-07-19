@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project demonstrates an interactive Microsoft Excel dashboard created for brand protection analytics. The original client information has been removed and replaced with anonymized names and publicly available sample data.
+This dashboard was designed to help stakeholders monitor brand protection performance through an interactive Excel reporting interface. It consolidates operational metrics into a single view, allowing users to filter data, track KPIs, and identify trends efficiently.
 
 ## Dashboard Preview
 
